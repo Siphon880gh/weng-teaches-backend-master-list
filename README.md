@@ -10,14 +10,10 @@
 By Weng Fei Fung. This is a master list of backend lesssons that Weng created for students. It covers uploading to Express or Cloud (Amazon AWS S3). It also covers security (jsonwebtoken). More coming in the future.
 
 
-- AWS S3 Upload
-https://github.com/Siphon880gh/weng-teaches-react-aws-s3-file-upload
+- AWS S3 Upload - https://github.com/Siphon880gh/weng-teaches-react-aws-s3-file-upload
 
-- Express FileUpload
-https://github.com/Siphon880gh/weng-teaches-react-express-fileupload
+- Express FileUpload - https://github.com/Siphon880gh/weng-teaches-react-express-fileupload
 
-- Express Multer Upload
-https://github.com/Siphon880gh/weng-teaches-react-multer-file-upload
+- Express Multer Upload - https://github.com/Siphon880gh/weng-teaches-react-multer-file-upload
 
-- Express JSON Web Token
-https://github.com/Siphon880gh/weng-teaches-react-express-jwt-json-web-token/
+- Express JSON Web Token - https://github.com/Siphon880gh/weng-teaches-react-express-jwt-json-web-token/
